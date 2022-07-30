@@ -1,0 +1,13 @@
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\netcoreapp3.1\TcKimlikKontrol.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\netcoreapp3.1\TcKimlikKontrol.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\netcoreapp3.1\TcKimlikKontrol.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\netcoreapp3.1\TcKimlikKontrol.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\bin\Debug\netcoreapp3.1\TcKimlikKontrol.exe
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\bin\Debug\netcoreapp3.1\TcKimlikKontrol.deps.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\bin\Debug\netcoreapp3.1\TcKimlikKontrol.runtimeconfig.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\bin\Debug\netcoreapp3.1\TcKimlikKontrol.runtimeconfig.dev.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\bin\Debug\netcoreapp3.1\TcKimlikKontrol.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\bin\Debug\netcoreapp3.1\TcKimlikKontrol.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\netcoreapp3.1\TcKimlikKontrol.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\netcoreapp3.1\TcKimlikKontrol.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Kapsülleme\Property_İle\TcKimlikKontrol\TcKimlikKontrol\obj\Debug\netcoreapp3.1\TcKimlikKontrol.genruntimeconfig.cache
